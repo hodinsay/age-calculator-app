@@ -1,5 +1,5 @@
 # Age Calculator App
-A web application that will calculate and return the exact age of user's birthday in years, months, and days. 
+A web application that will calculate and return the exact age of user's birthday in years, months, and days. This web app is responsive and accessible on mobile devices. Google Lighthouse Audit Score: `100` Performance, `100` Accessbility, `100` Best Practices, `100` SEO. 
 
 Solution built with `Vite` `React.js` `Tailwind-CSS` `HTML`
 
